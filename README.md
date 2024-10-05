@@ -1,0 +1,2 @@
+# firefox
+My firefox configs
