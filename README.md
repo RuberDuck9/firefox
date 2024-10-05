@@ -1,2 +1,2 @@
 # firefox
-My firefox configs
+My arkenfox config
